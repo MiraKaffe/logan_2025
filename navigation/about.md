@@ -41,6 +41,7 @@ permalink: /about/
         {"flag": "b/be/Flag_of_England.svg", "greeting": "Alright mate", "description": "England - many trips"},
         {"flag": "e/ef/Flag_of_Hawaii.svg", "greeting": "Aloha", "description": "Hawaii - never"},
     ]; 
+   
     
     // 3a. Consider how to update style count for size of container
     // The grid-template-columns has been defined as dynamic with auto-fill and minmax
@@ -72,3 +73,6 @@ permalink: /about/
         container.appendChild(gridItem);
     }
 </script>
+
+## Test
+This will probably work.
