@@ -74,5 +74,5 @@ permalink: /about/
     }
 </script>
 
-## Test
-This will probably work.
+## interests and disenterests 
+I enjoy playing games and reading books. My favorite books are the Mistborn trilogy, Babel, Priory of the Orange tree, and the invisible life of addie la rue. I enjoy fantasies and science fictions.
