@@ -75,4 +75,6 @@ permalink: /about/
 </script>
 
 ## interests and disenterests 
-I enjoy playing games and reading books. My favorite books are the Mistborn trilogy, Babel, Priory of the Orange tree, and the invisible life of addie la rue. I enjoy fantasies and science fictions.
+I enjoy playing games and reading books. My favorite books are the Mistborn trilogy, Babel, Priory of the Orange Tree, and The Invisible Life of Addie La Rue. I enjoy fantasies and science fictions.
+
+<img src="https://m.media-amazon.com/images/I/A1lv97-jJoL._AC_UF1000,1000_QL80_.jpg" alt="Babel: Or the Necessity of Violence: An Arcane History of the Oxford  Translators&#39; Revolution"/>![image](https://github.com/user-attachments/assets/29952ccc-7d88-4bd5-9f95-b74278a8d349)
