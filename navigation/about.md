@@ -92,11 +92,9 @@ I enjoy playing games and reading books. My favorite books are the Mistborn tril
 
 I do not enjoy sports outside of trail running, I find coding painful, and I dislike noise.
 
-![image](https://github.com/user-attachments/assets/29952ccc-7d88-4bd5-9f95-b74278a8d349)
-
 
 <div class="image-gallery">
   <img src="{{site.baseurl}}/images/about/babel.jpg" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/bloodborne.jpg" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/Bloodborne.jpg" alt="Image 2">
   <img src="{{site.baseurl}}/images/about/Truman.jpg" alt="Image 3">
 </div>
