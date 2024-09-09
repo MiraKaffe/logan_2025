@@ -88,7 +88,7 @@ permalink: /about/
 </script>
 
 ## interests and disenterests 
-I enjoy playing games and reading books. My favorite books are the Mistborn trilogy, Babel, Priory of the Orange Tree, and The Invisible Life of Addie La Rue. I enjoy fantasies and science fictions. I also enjoy playing video games, and my favorite is Bloodborne. My favorite movie is The Truman Show(excluding lord of the rings).
+I enjoy playing games and reading books. My favorite books are the Mistborn trilogy, Babel, Priory of the Orange Tree, and The Invisible Life of Addie La Rue. I enjoy fantasies and science fictions. I also enjoy playing video games, and my favorite is Bloodborne. Some of my other favorite games include Celeste, Neon White, Stardew Valley, and Breath of the Wild. My favorite movie is The Truman Show(excluding lord of the rings).
 
 I do not enjoy sports outside of trail running, I find coding painful, and I dislike noise.
 
