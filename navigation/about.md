@@ -98,4 +98,5 @@ I do not enjoy sports outside of trail running, I find coding painful, and I dis
   <img src="{{site.baseurl}}/images/about/Bloodborne.jpg" alt="Image 2">
   <img src="{{site.baseurl}}/images/about/Truman.jpg" alt="Image 3">
  <img src="{{site.baseurl}}/images/about/run.jpg" alt="Image 4">
+     <img src="{{site.baseurl}}/images/about/Stardew.jpg" alt="Image 5">
 </div>
