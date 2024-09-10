@@ -22,5 +22,4 @@ plugins:
 header_pages:
   - navigation/about.md
   - navigation/interest.md
-  - navigation/about.md
   - README4YML.md
