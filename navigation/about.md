@@ -2,8 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-title: Interest
-permalink: /interest/
 ---
 
 <style>
