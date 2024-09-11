@@ -21,4 +21,5 @@ plugins:
   - jekyll-remote-theme
 header_pages:
   - navigation/about.md
+  - navigation/interest.md
   - README4YML.md
