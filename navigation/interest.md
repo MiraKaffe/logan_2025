@@ -4,7 +4,7 @@ title: Interest
 permalink: /interest/
 ---
 
-{% include nav/home.html %}
+{% include nav/mourn.html %}
 
 
 <style>
