@@ -4,6 +4,9 @@ title: Interest
 permalink: /interest/
 ---
 
+{% include nav/home.html %}
+
+
 <style>
     /* Style looks pretty compact, trace grid-container and grid-item in the code */
     .grid-container {
