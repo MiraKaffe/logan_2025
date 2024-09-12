@@ -72,9 +72,8 @@ Bloodborne is a gruesome game. It is a punishing, violent, gruesome game. It als
 The game leads you to believe that this game is simply about human conflicts. But this game's story has depth to it. The source of this corruption of humanity is an eldritch race of gods called *Great Ones*. Throughout the game, you never see more than a handful of them within the game, but their prescence is notable from the very begginning. This game has *Depth*.
 
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/babel.jpg" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/Bloodborne.jpg" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/Truman.jpg" alt="Image 3">
- <img src="{{site.baseurl}}/images/about/run.jpg" alt="Image 4">
-     <img src="{{site.baseurl}}/images/about/Stardew.jpg" alt="Image 5">
+  <img src="{{site.baseurl}}/images/about/Bloodborne.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/Truman.jpg" alt="Image 2">
+ <img src="{{site.baseurl}}/images/about/run.jpg" alt="Image 3">
+     <img src="{{site.baseurl}}/images/about/Stardew.jpg" alt="Image 4">
 </div>
