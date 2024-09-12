@@ -75,5 +75,7 @@ The game leads you to believe that this game is simply about human conflicts. Bu
   <img src="{{site.baseurl}}/images/about/Bloodborne.jpg" alt="Image 1">
   <img src="{{site.baseurl}}/images/about/botw.jpg" alt="Image 2">
  <img src="{{site.baseurl}}/images/about/totk.jpeg" alt="Image 3">
-     <img src="{{site.baseurl}}/images/about/Stardew.jpg" alt="Image 4">
+ <img src="{{site.baseurl}}/images/about/Stardew.jpg" alt="Image 4">
+ <img src="{{site.baseurl}}/images/about/hades.jpeg" alt="Image 5">
+ <img src="{{site.baseurl}}/images/about/celeste.png" alt="Image 6">
 </div>
