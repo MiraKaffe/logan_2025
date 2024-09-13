@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: snake
+permalink: /snake/
+---
 
 <style>
 
