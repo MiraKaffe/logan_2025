@@ -4,7 +4,7 @@ title: Interest
 permalink: /interest/
 ---
 
-{% include nav/mourn.html %}
+
 
 
 <style>
@@ -82,3 +82,8 @@ The game leads you to believe that this game is simply about human conflicts. Bu
  <img src="{{site.baseurl}}/images/about/hades.jpeg" alt="Image 5">
  <img src="{{site.baseurl}}/images/about/celeste.png" alt="Image 6">
 </div>
+
+
+
+
+{% include nav/mourn.html %}
