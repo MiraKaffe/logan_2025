@@ -190,7 +190,7 @@ new kasm test yay
   });
 
 </script>
-My journey starts here.
+My journey ends in two to three business days.
 
 
 the text below is something called markdown
@@ -204,7 +204,7 @@ This is a heading, inside of code scaffolding
 ##investing in your technical future XXXYYY
 ```
 
-## Investing in Your Technical Future
+## Investing in a significant prescription of painkillers and anxiety meds
 
 
 ```
