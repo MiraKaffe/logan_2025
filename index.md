@@ -201,7 +201,11 @@ https://www.markdownguide.org/getting-started/
 
 This is a heading, inside of code scaffolding
 ```markdown
-Statistically speaking, in a non-del norte hyper competitive high school, 1 in every 3 students will fail a class. If this class continues cooperating with each other in groups of more than two(where at least one person will know what we are supposedly supposed to do), assuming the same percentage of students fail the class as failed the self graded check list assignment, 16% of the classs will pass, and 84% will fail. In a class full of students bereft of the students who more often fail classes, 84% is absolutely mad.
+Statistically speaking, in a non-del norte hyper competitive high school, 1 in every 3 students will fail a class. If this
+class continues cooperating with each other in groups of more than two(where at least one person will know what we are
+supposedly supposed to do), assuming the same percentage of students fail the class as failed the self graded check list
+assignment, 16% of the classs will pass, and 84% will fail. In a class full of students bereft of the students who more often
+fail classes, 84% is absolutely mad.
 ```
 
 ## Investing in a significant prescription of painkillers and anxiety meds
