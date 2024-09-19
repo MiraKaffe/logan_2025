@@ -191,7 +191,7 @@ new kasm test yay
 
 </script>
 My journey ends in two to three business days.
-
+This is my page, where everything which I need to show outside of raw code dwells for mr. mortenson's computer science and software engineering class. 
 
 the text below is something called markdown
 Using markdown from index.md. we are learning markdown
@@ -201,7 +201,7 @@ https://www.markdownguide.org/getting-started/
 
 This is a heading, inside of code scaffolding
 ```markdown
-##investing in your technical future XXXYYY
+Statistically speaking, in a non-del norte hyper competitive high school, 1 in every 3 students will fail a class. If this class continues cooperating with each other in groups of more than two(where at least one person will know what we are supposedly supposed to do), assuming the same percentage of students fail the class as failed the self graded check list assignment, 16% of the classs will pass, and 84% will fail. In a class full of students bereft of the students who more often fail classes, 84% is absolutely mad.
 ```
 
 ## Investing in a significant prescription of painkillers and anxiety meds
@@ -220,16 +220,18 @@ Things I am confused by
 - old people
 - people
 - wombats
-- cultists
+- religion
 ```
 Classroom work time is likely able to be classified as torture.
 
 
-Here's a random allomantic symbol
+Here's a random allomantic symbol!
+I love books
 
 ![image](https://github.com/user-attachments/assets/ac5de6d7-29a8-4595-a9b0-47385e681590)
 
 
 
+Is this personalized use of frontend development yet?
 
 
