@@ -100,3 +100,14 @@ I do not enjoy sports outside of trail running, I find coding painful, and I dis
  <img src="{{site.baseurl}}/images/about/run.jpg" alt="Image 4">
      <img src="{{site.baseurl}}/images/about/Stardew.jpg" alt="Image 5">
 </div>
+
+<!-- Use this script to add comments to your blog posts manually
+<script src="https://utteranc.es/client.js"
+        repo="nighthawkcoders/portfolio_2025"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+-->
