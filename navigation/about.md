@@ -88,14 +88,14 @@ permalink: /about/
 </script>
 
 ## Interests and Disenterests 
-I enjoy playing games and reading books. My favorite books are the Mistborn trilogy, Babel, Priory of the Orange Tree, and The Invisible Life of Addie La Rue. I enjoy fantasies and science fictions. I also enjoy playing video games, and my favorite is Bloodborne. Some of my other favorite games include Celeste, Neon White, Stardew Valley, and Breath of the Wild. My favorite movie is The Truman Show(excluding lord of the rings). My favorite food is Lumpia, and I've run a 25k before (and hopefully a marathon by the end of the year).
+I enjoy playing games and reading books. My favorite books are the Mistborn trilogy, Babel, Priory of the Orange Tree, and The Invisible Life of Addie La Rue. I enjoy fantasies and science fictions. I also enjoy playing video games, and my favorite is Bloodborne. Some of my other favorite games include Celeste, Neon White(top 2k on global leaderboard), Stardew Valley, and Breath of the Wild. My favorite movie is The Truman Show(excluding lord of the rings). My favorite food is Lumpia, and I've run a 25k before (and hopefully a marathon by the end of the year).
 
 My favorite subject is English, and I have a terrible memory most of the time.
 
-I went to Monterey Ridge for elementary school, Oak Valley for middle, and am in Del Norte.
+I went to Monterey Ridge for elementary school, Oak Valley for middle, and am in Del Norte. I played soccer for about ~5 years before giving up and trail running instead.
 
 
-I do not enjoy sports outside of trail running, I find coding painful, and I dislike noise.
+I do not enjoy sports outside of running, I find coding painful, and I dislike noise.
 
 
 <div class="image-gallery">
