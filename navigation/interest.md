@@ -58,7 +58,7 @@ The story of Hades is given to you in small portions throughout a given run, whe
 
 ## Celeste
 
-Celeste is a grueling 2d platformer with an emphasis on precision and endurance. In  Celeste, you climb Mount Celeste, a mountain where strange things happen the farther up you go. It is a game about conquering hardships and accepting yourself.
+Celeste is a grueling 2d platformer with an emphasis on precision and endurance. In the game, you climb Mount Celeste, a mountain where strange things happen the farther up you go. It is a game about conquering hardships and accepting yourself.
 
 Celeste's story is beautiful, and tackles serious topics from the developers' lives. The story has *Heart*.
 
@@ -72,7 +72,7 @@ Between botw and totk, there is a time skip of about 5-10 years. When you return
 
 Bloodborne is a gruesome game. It is a punishing, violent, gruesome game. It also happens to be one of the greatest cosmic horrors ever made. The initial asthetic is that of misformed monsters that were once human, going on a wild witch hunt of sorts, with you as their target. 
 
-The game leads you to believe that this game is simply about human conflicts. But this game's story has depth to it. The source of this corruption of humanity is an eldritch race of gods called *Great Ones*. Throughout the game, you never see more than a handful of them within the game, but their prescence is notable from the very begginning. This game has *Depth*.
+The game leads you to believe that this game is simply about human conflicts. But this game's story has more to it. The source of this corruption of humanity is an eldritch race of gods called *Great Ones*. Throughout the game, you never see more than a handful of them within the game, but their prescence is notable from the very beginning. This game has *Depth*.
 
 <div class="image-gallery">
   <img src="{{site.baseurl}}/images/about/Bloodborne.jpg" alt="Image 1">
