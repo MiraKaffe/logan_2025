@@ -201,14 +201,10 @@ https://www.markdownguide.org/getting-started/
 
 This is a heading, inside of code scaffolding
 ```markdown
-Statistically speaking, in a non-del norte hyper competitive high school, 1 in every 3 students will fail a class. If this
-class continues cooperating with each other in groups of more than two(where at least one person will know what we are
-supposedly supposed to do), assuming the same percentage of students fail the class as failed the self graded check list
-assignment, 16% of the classs will pass, and 84% will fail. In a class full of students bereft of the students who more often
-fail classes, 84% is absolutely mad.
+If you impale a peach pit with a nail and set up a trellis over a glass of water and dangle the peach pit so its juuuuuuust touching the surface of the water, you'll have an impaled peach pit hanging from a trellis over a glass of water so its juuuuuuuuust touching the surface of the water
 ```
 
-## Investing in a significant prescription of painkillers and anxiety meds
+## Investing in a significant prescription zoloft
 
 
 ```
@@ -221,12 +217,11 @@ Things I am confused by
 - science
 - code
 - hate crimes
-- old people
+- crime crimes
 - people
 - wombats
-- religion
+- cults
 ```
-Classroom work time is likely able to be classified as torture.
 
 
 Here's a random allomantic symbol!
@@ -235,7 +230,6 @@ I love books
 ![image](https://github.com/user-attachments/assets/ac5de6d7-29a8-4595-a9b0-47385e681590)
 
 
-
-Is this personalized use of frontend development yet?
+Consider this page certifiably personaliized.
 
 
