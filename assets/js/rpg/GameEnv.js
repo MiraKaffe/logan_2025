@@ -49,8 +49,8 @@ class GameEnv {
         this.setCanvas();
         this.setTop();
         this.setBottom();
-        this.innerWidth = 1200
-        this.innerHeight = 500
+        this.innerWidth = 800
+        this.innerHeight = 450
         this.size();
     }
 
