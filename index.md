@@ -189,39 +189,53 @@ new kasm test yay
     mario.startResting();
   });
 
-</script>
-My journey ends in two to three business days.
-This is my page, where everything which I need to show outside of raw code dwells for mr. mortenson's computer science and software engineering class. 
-
-the text below is something called markdown
-Using markdown from index.md. we are learning markdown
-###mardown samples
-https://www.markdownguide.org/getting-started/
 
 
-This is a heading, inside of code scaffolding
-```markdown
-If you impale a peach pit with a nail and set up a trellis over a glass of water and dangle the peach pit so its juuuuuuust touching the surface of the water, you'll have an impaled peach pit hanging from a trellis over a glass of water so its juuuuuuuuust touching the surface of the water
-```
+### Game Progress
 
-## Investing in a significant prescription zoloft
+> Here is my progress through game coding, click to see these online
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="{{site.baseurl}}/snake" style="text-decoration: none;">
+        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Snake Game
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/rpg/dot0" style="text-decoration: none;">
+        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Turtle v0.0
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/rpg/dot1" style="text-decoration: none;">
+        <div style="background-color: #FF8800; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Turtle v0.1
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/rpg/dot2" style="text-decoration: none;">
+        <div style="background-color: #FFFF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Turtle v0.2
+        </div>
+    </a>
+</div>
 
-```
-This is emphasis
-> Did you know that sahaas spelled backwards is saahas?
-```
+<br>
 
-Things I am confused by
-```
-- science
-- code
-- hate crimes
-- crime crimes
-- people
-- wombats
-- cults
-```
+### College Articulation
+
+> Here is my preparation for college topics, click to review my blogs
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="{{site.baseurl}}/csse/javascript/fundamentals/variables" style="text-decoration: none;">
+        <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Variables I/O
+        </div>
+    </a>
+    <a href="{{site.baseurl}}/csse/javascript/fundamentals/data-types/" style="text-decoration: none;">
+        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Data Types
+        </div>
+    </a>
+</div>
 
 
 Here's a random allomantic symbol!
