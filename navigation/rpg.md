@@ -7,6 +7,7 @@ permalink: /rpg/
 <canvas id='gameCanvas'></canvas>
 
 <script type="module">
+    // :3
     import GameControl from '{{site.baseurl}}/assets/js/rpg/GameControl.js';
 
     // Background data
