@@ -2,6 +2,7 @@ import GameEnv from './GameEnv.js';
 
 /* Background class for primary background
 */
+
 export class Background {
     constructor(data = null) {
         if (data.src) {
