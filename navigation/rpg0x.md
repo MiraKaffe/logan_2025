@@ -2,6 +2,7 @@
 layout: post
 title: RPGV0.1
 course: rpgv0.1
+permalink: /rpg0x/
 ---
 
 <style>
