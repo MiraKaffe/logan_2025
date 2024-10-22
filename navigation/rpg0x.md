@@ -1,7 +1,6 @@
 ---
-layout: post
+layout: base
 title: RPGV0.1
-course: rpgv0.1
 permalink: /rpg0x/
 ---
 
