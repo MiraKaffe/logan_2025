@@ -15,7 +15,7 @@ This blog contains my journey into Coding.
 
 
 
-<a href="{{site.baseurl}}/rpg/dot1" style="text-decoration: none;">
+<a href="{{site.baseurl}}/rpg/" style="text-decoration: none;">
     <div style="background-color: #FF8800; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
         Turtle v0.1
     </div>
