@@ -37,16 +37,8 @@ This blog contains my journey into Coding.
 
 > Here is my progress through game coding, click to see these online
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="{{site.baseurl}}/snake" style="text-decoration: none;">
-        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Snake Game
-        </div>
-    </a>
-    <a href="{{site.baseurl}}/rpg/dot0" style="text-decoration: none;">
-        <div style="background-color: #C387FF; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Turtle v0.0
-        </div>
+
+
     </a>
     <a href="{{site.baseurl}}/rpg/dot1" style="text-decoration: none;">
         <div style="background-color: #FF8800; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
@@ -61,35 +53,3 @@ This blog contains my journey into Coding.
 </div>
 
 <br>
-
-### College Articulation
-
-> Here is my preparation for college topics, click to review my blogs
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="{{site.baseurl}}/csse/javascript/fundamentals/variables" style="text-decoration: none;">
-        <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Variables I/O
-        </div>
-    </a>
-    <a href="{{site.baseurl}}/csse/javascript/fundamentals/data-types/" style="text-decoration: none;">
-        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Data Types
-        </div>
-    </a>
-</div>
-
-<br>
-
-### Game Experiments
-
-> These are that make it to creation not necessarily will be added
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="{{site.baseurl}}/experiment/message" style="text-decoration: none;">
-        <div style="background-color: #12ABFF; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Message Box 0.1
-        </div>
-    </a>
-</div>
-
