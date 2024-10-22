@@ -2,7 +2,6 @@ import GameEnv from './GameEnv.js';
 
 /* Background class for primary background
 */
-
 export class Background {
     constructor(data = null) {
         if (data.src) {
@@ -11,6 +10,7 @@ export class Background {
         } else {
             this.image = null;
         }
+        GameEnv.gameObjects.push(this);
     }
 
     /* This method draws to GameEnv context, primary background
