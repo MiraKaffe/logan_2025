@@ -1,124 +1,62 @@
+import GameEnv from './GameEnv.js';
+import GameLevelSquares from './GameLevelSquares.js';
+import GameLevelWater from './GameLevelWater.js';
+
 /**
- * GameEnv is a static class that manages the game environment.
+ * The GameControl object manages the game.
  * 
- * The focus of the file is the canvas management and the calculation of the game area dimensions. 
- * All calculations are based on the window size, header, and footer.
+ * This code uses the JavaScript "object literal pattern" which is nice for centralizing control logic.
  * 
- * This code uses a classic Java static class pattern, which is nice for managing centralized data.
+ * The object literal pattern is a simple way to create singleton objects in JavaScript.
+ * It allows for easy grouping of related functions and properties, making the code more organized and readable.
+ * In the context of GameControl, this pattern helps centralize the game's control logic, 
+ * making it easier to manage game states, handle events, and maintain the overall flow of the game.
  * 
- * The static class pattern ensures that there is only one instance of the game environment,
- * providing a single point of reference for all game objects. This approach helps maintain
- * consistency and simplifies the management of shared resources like the canvas and its dimensions.
- * 
- * @class GameEnv
- * @property {Object} canvas - The canvas element.
- * @property {Object} ctx - The 2D rendering context of the canvas.
- * @property {number} innerWidth - The inner width of the game area.
- * @property {number} innerHeight - The inner height of the game area.
- * @property {number} top - The top offset of the game area.
- * @property {number} bottom - The bottom offset of the game area.
+ * @type {Object}
+ * @property {Player} turtle - The player object.
+ * @property {Player} fish 
+ * @property {function} start - Initialize game assets and start the game loop.
+ * @property {function} gameLoop - The game loop.
+ * @property {function} resize - Resize the canvas and player object when the window is resized.
  */
-class GameEnv {
-    static gameObjects = [];
-    static canvas;
-    static ctx;
-    static innerWidth;
-    static innerHeight;
-    static top;
-    static bottom;
+const GameControl = {
 
-    /**
-     * Private constructor to prevent instantiation.
-     * 
-     * @constructor
-     * @throws {Error} Throws an error if an attempt is made to instantiate the class.
-     */
-    constructor() {
-        throw new Error('GameEnv is a static class and cannot be instantiated.');
+    start: function(path) {
+        // Create the game environment
+        GameEnv.create();
+        // Load the game level
+        const gameLevel = new GameLevelWater(path);
+        // Prepare game objects for the level
+        for (let object of gameLevel.objects) {
+            if (!object.data) object.data = {};
+            new object.class(object.data) 
+        }
+        // Start the game loop
+        this.gameLoop();
+    },
+
+    gameLoop: function() {
+         // Clear the canvas
+        GameEnv.clear();
+        // Update the game objects
+        for (let object of GameEnv.gameObjects) {
+            object.update(); // Update the game objects
+        }
+        // Recursively call the game loop
+        requestAnimationFrame(this.gameLoop.bind(this));
+    },
+
+    resize: function() {
+        // Resize the game environment
+        GameEnv.resize(); 
+        // Resize the game objects
+        for (let object of GameEnv.gameObjects) {
+            object.resize(); // Resize the game objects
+        }
     }
+};
 
-    /**
-     * Create the game environment by setting up the canvas and calculating dimensions.
-     * 
-     * This method sets the canvas element, calculates the top and bottom offsets,
-     * and determines the inner width and height of the game area. It then sizes the canvas
-     * to fit within the calculated dimensions.
-     * 
-     * @static
-     */
-    static create() {
-        this.setCanvas();
-        this.setTop();
-        this.setBottom();
-        this.innerWidth = window.innerWidth;
-        this.innerHeight = window.innerHeight - this.top - this.bottom;
-        this.size();
-    }
+// Detect window resize events and call the resize function.
+window.addEventListener('resize', GameControl.resize.bind(GameControl));
 
-    /**
-     * Sets the canvas element and its 2D rendering context.
-     * 
-     * @static
-     */
-    static setCanvas() {
-        this.canvas = document.getElementById('gameCanvas');
-        this.ctx = this.canvas.getContext('2d');
-    }
-
-    /**
-     * Sets the top offset based on the height of the header element.
-     * 
-     * @static
-     */
-    static setTop() {
-        const header = document.querySelector('header');
-        this.top = header ? header.offsetHeight : 0;
-    }
-
-    /**
-     * Sets the bottom offset based on the height of the footer element.
-     * 
-     * @static
-     */
-    static setBottom() {
-        const footer = document.querySelector('footer');
-        this.bottom = footer ? footer.offsetHeight : 0;
-    }
-
-    /**
-     * Sizes the canvas to fit within the calculated dimensions.
-     * 
-     * @static
-     */
-    static size() {
-        this.canvas.width = this.innerWidth;
-        this.canvas.height = this.innerHeight;
-        this.canvas.style.width = `${this.innerWidth}px`;
-        this.canvas.style.height = `${this.innerHeight}px`;
-        this.canvas.style.position = 'absolute';
-        this.canvas.style.left = '0px';
-        this.canvas.style.top = `${this.top}px`;
-    }
-
-    /**
-     * Resizes the game environment by re-creating it.
-     * 
-     * @static
-     */
-    static resize() {
-        this.create();
-    }
-
-    /**
-     * Clears the canvas.
-     * 
-     * This method clears the entire canvas, making it ready for the next frame.
-     * 
-     * @static
-     */
-    static clear() {
-        this.ctx.clearRect(0, 0, this.innerWidth, this.innerHeight);
-    }
-}
-
-export default GameEnv;
+export default GameControl;
