@@ -21,7 +21,7 @@ This blog contains my journey into Coding.
     </div>
 </a>
 
-<a href="{{site.baseurl}}/rpg" style="text-decoration: none;">
+<a href="{{site.baseurl}}/rpg0x" style="text-decoration: none;">
     <div style="background-color: #FFFF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
         Turtle v0.2
     </div>
