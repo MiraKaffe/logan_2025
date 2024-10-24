@@ -1,7 +1,7 @@
-import Player from "./Player.js";
+import GameObject from "./GameObject.js";
 import GameEnv from "./GameEnv.js";
 
-class NPC extends Player {
+class NPC extends GameObject {
     constructor(data = null) {
         super(data);
         this.alertTimeout = null;
