@@ -1,6 +1,6 @@
 ---
 layout: base
-title: John Mortensen Home 
+title: Logan Brauchla Home 
 description: Home Page
 hide: true
 ---
@@ -75,7 +75,7 @@ This blog contains my journey into Coding.
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="{{site.baseurl}}/csse/javascript/fundamentals/json" style="text-decoration: none;">
+    <a href="{{site.baseurl}}/game/intro/json" style="text-decoration: none;">
         <div style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             JSON Objects
         </div>
