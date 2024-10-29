@@ -53,20 +53,9 @@ This blog contains my journey into Coding.
             Turtle v0.1
         </div>
     </a>
-    <a href="{{site.baseurl}}/rpg/dot2" style="text-decoration: none;">
-        <div style="background-color: #FFFF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Turtle v0.2
-        </div>
-    </a>
-    <a href="{{site.baseurl}}/rpg/dot3" style="text-decoration: none;">
-        <div style="background-color: #880088; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
-            Turtle v0.3
-        </div>
-    </a>
 </div>
-</div>
-
 <br>
+
 
 ### College Articulation
 
