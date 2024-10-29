@@ -39,17 +39,17 @@ This blog contains my journey into Coding.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <a href="{{site.baseurl}}/snake" style="text-decoration: none;">
-        <div style="background-color: #00FF00; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        <div style="background-color: #6bf553; color: black; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Snake Game
         </div>
     </a>
     <a href="{{site.baseurl}}/rpg/" style="text-decoration: none;">
-        <div style="background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        <div style="background-color: #b1b9c7; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Turtle v0.0
         </div>
     </a>
     <a href="{{site.baseurl}}/rpg0x/" style="text-decoration: none;">
-        <div style="background-color: #FF8800; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+        <div style="background-color: #b1b9c7; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
             Turtle v0.1
         </div>
     </a>
