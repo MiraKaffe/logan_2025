@@ -20,7 +20,7 @@ permalink: /rpg0x/
     align-items: center; /* Center items vertically */
     justify-content: center; /* Center items horizontally */
     width: 100%; /* Adjust width to fit content */
-    height: 200%; /* Adjust height to fit content */
+    height: 100%; /* Adjust height to fit content */
     position: absolute; /* Position the button relative to the alert box */
 }
 
